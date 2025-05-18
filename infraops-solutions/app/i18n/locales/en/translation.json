@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "language": {
+    "en": "English",
+    "ar": "Arabic"
+  },
+  "hero": {
+    "title": "We Build and Manage Your Infrastructure On Cloud or On-Prem",
+    "cta": "Get a Free Consultation"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive DevOps and Multi-Cloud Solutions",
+    "iac": {
+      "title": "Infrastructure as Code",
+      "description": "Automate your infrastructure deployment with Terraform and Ansible"
+    },
+    "cicd": {
+      "title": "CI/CD Pipelines",
+      "description": "Streamline your development workflow with GitHub Actions and GitLab CI"
+    },
+    "monitoring": {
+      "title": "Monitoring",
+      "description": "Keep track of your infrastructure with Prometheus and Grafana"
+    },
+    "cloud": {
+      "title": "Cloud Providers",
+      "description": "Deploy your infrastructure on AWS, Azure, or GCP"
+    }
+  },
+  "contact": {
+    "title": "Let's talk about your infrastructure",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "success": "Thank you for your message. We'll get back to you soon!"
+  },
+  "footer": {
+    "copyright": "© 2024 InfraOps Solutions. All rights reserved."
+  },
+  "chatbot": {
+    "title": "InfraOps Assistant",
+    "placeholder": "Ask a question about our services...",
+    "button": "Send",
+    "greeting": "Hello! How can I help you with your infrastructure needs today?",
+    "loading": "Thinking...",
+    "toggle": "Chat with us"
+  }
+}
